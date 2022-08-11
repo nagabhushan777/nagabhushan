@@ -1,0 +1,5 @@
+#git/maven/jenkiss/jfrog 
+#.[];'  
+cloud
+kubernnetes/docker
+automaton process
